@@ -1,0 +1,30 @@
+{
+  "summary": "What changed in THIS thread.",
+  "current_objective": "THIS thread's current objective.",
+  "completed": [],
+  "next_actions": [],
+  "open_questions": [],
+  "risks": [],
+  "files_changed": [],
+  "tests": [],
+  "requirements": [],
+  "decisions": [],
+  "facts": [],
+  "lessons": [],
+  "tasks": [
+    {
+      "text": "task",
+      "status": "todo",
+      "owner_thread": "self|thread id",
+      "owner_role": "any user-defined role"
+    }
+  ],
+  "handoffs": [
+    {
+      "text": "work for another lane",
+      "to_thread": "optional",
+      "to_role": "any user-defined role"
+    }
+  ],
+  "role": "any explicit user-defined role; examples: analyzer, builder, teacher, explainer, coordinator, researcher, emailer"
+}
